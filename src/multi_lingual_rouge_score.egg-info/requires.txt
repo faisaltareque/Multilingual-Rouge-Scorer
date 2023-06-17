@@ -1,6 +1,0 @@
-six
-rouge-score
-transformers
-
-[dev]
-pytest>=3.7
