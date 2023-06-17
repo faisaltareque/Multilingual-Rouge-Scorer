@@ -5,7 +5,7 @@ multilingual-rouge](https://github.com/KaiQiangSong/multilingual-rouge).
   
 
 
-## Setup from Clone
+## Setup from Repository
 ```bash
 python setup.py bdist_wheel
 pip install -e .
